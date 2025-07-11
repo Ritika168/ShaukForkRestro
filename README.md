@@ -15,7 +15,7 @@ Welcome to **Shauk Fork Restro**, a modern and responsive restaurant website bui
 ## 🚀 Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript
-- **Deployment:** [Netlify]](https://shaukforkrestro.netlify.app/)
+- **Deployment:** (https://shaukforkrestro.netlify.app/)
 
 
 
